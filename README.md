@@ -25,8 +25,7 @@
 
 ## 💻 링크
 
-- DEMO: [Lumee🔮](https://hongsoonil.github.io/weather-assistant-frontend/)
-- PREVIEW: [Demo Video: Lumee⛅🔮](https://youtu.be/PBAn7sUd3rI?feature=shared)
+- PREVIEW: [Demo Video: Lumee⛅🔮](https://youtu.be/baEqa20eOGI)
 - WORKSPACE: [Team Project: Lumee⛅🔮](https://www.notion.so/Aurora-Studio-Lumee-2-0-2030e11d4cf280c38f63de812d22286a?source=copy_link)
 
 
